@@ -22,9 +22,9 @@ Data has sheets on order line data, return order ids and Manager's managing thei
 7. Developed N slicer to display Products by Sales, TopN and BottomN
 8. Tabluar data will display managers who receive the most return products.
 9. Made a slicer to display the dashbaord using the MTD, QTD, and YTD.
-10. Tabular view to show customers how had purchased all products
-11. Created Row Level Security (RLS) by Mangers for the Region
-12. A line chart to show maximum price under each Product Category
+10. Tabular view to show customers how had purchased all products.
+11. Created Row Level Security (RLS) by Mangers for the Region.
+12. A line chart to show maximum price under each Product Category.
 
 
 ## **Additional Comments**
