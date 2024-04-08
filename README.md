@@ -13,21 +13,21 @@ Data has sheets on order line data, return order ids and Manager's managing thei
 
 
 ## **Tasks**
-1. Created 1 page dashboard highlighing my understanding from the data, summarirzed the data and added conditional formatting, used dynamic measure to filter Sales, Volume and Profits. 
-2. Used field parameter to filter data on Sales, Volume and Profit.
-3. Created and Used Dynamic Measure to filter data on Sales, Volume and Profit.
-4. Created line chart showing 6 months average sales
-5. Showed Top 5 products by Sales using Measure
-6. Created TopN slicer to show TopN Products by Sales
-7. Created N slicer to show TopN and BottomN Products by Sales
-8. Tabluar data to show Managers with Maximum Product Returns
-9. Created slicer with MTD, QTD and YTD to view dashbaord by slicer
+1. I made a one-page dashboard that summarized the data, applied conditional formatting, and utilized dynamic measures to filter Sales, Volume, and Profits. The dashboard also highlighted my comprehension of the data. 
+2. Filtered data on sales, volume, and profit using a field parameter.
+3. Developed and applied Dynamic Measure to refine sales, volume, and profit statistics.
+4. Made a line graph that displays 6 months rolling average sales.
+5. Displayed the Top 5 Products Using Measure on Sales
+6. Developed a TopN slicer to display TopN Products according to Sales
+7. Developed N slicer to display Products by Sales, TopN and BottomN
+8. Tabluar data will display managers who receive the most return products.
+9. Made a slicer to display the dashbaord using the MTD, QTD, and YTD.
 10. Tabular view to show customers how had purchased all products
 11. Created Row Level Security (RLS) by Mangers for the Region
 12. A line chart to show maximum price under each Product Category
 
 
 ## **Additional Comments**
-* The complete dashboard was built from scratch where only data and task were provided. 
-* Include color coding schemes, backgroud images on dashboard such that it follows companies branding guidline. 
-* All of the above task's were completed in < 12 hours.
+* Using only data and tasks, the entire dashboard was created from scratch. 
+* Include color coding schemes and background pictures on the dashboard in a way that adheres to the company's branding guidelines.
+* The aforementioned tasks were all finished in less than 12 hours.
