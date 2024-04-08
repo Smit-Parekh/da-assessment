@@ -1,5 +1,6 @@
 # **Technical Assessment for Data Analaysis**
-![Dashboard Image]()
+![Dashboard Image](https://github.com/Smit-Parekh/da-assessment/blob/main/03.%20Snips/Snip%201.png)
+
 
 ## **Table of Contents**
 * [About Data](#about-data)
@@ -9,6 +10,7 @@
 
 ## **About Data**
 Data has sheets on order line data, return order ids and Manager's managing their respective regions data.  
+
 
 ## **Tasks**
 1. Created 1 page dashboard highlighing my understanding from the data, summarirzed the data and added conditional formatting, used dynamic measure to filter Sales, Volume and Profits. 
@@ -23,6 +25,7 @@ Data has sheets on order line data, return order ids and Manager's managing thei
 10. Tabular view to show customers how had purchased all products
 11. Created Row Level Security (RLS) by Mangers for the Region
 12. A line chart to show maximum price under each Product Category
+
 
 ## **Additional Comments**
 * The complete dashboard was built from scratch where only data and task were provided. 
