@@ -1,4 +1,4 @@
-# **Technical Assessment for Data Analaysis**
+# **Technical Assessment for Data Analysis**
 ![Dashboard Image](https://github.com/Smit-Parekh/da-assessment/blob/main/03.%20Snips/Snip%201.png)
 
 
